@@ -17,5 +17,5 @@ Additionally, I feature engineered a new variable: cash_inflow_outflow_ratio. I 
 Afterward, I used a simple implementation of RandomForestRegressor from sklearn.ensemble and XGBoostRegressor from xgboost. Both models underwent five-fold cross-validation, an 80:20 train-test split, and GridSearchCV for hyperparameter optimization. Both models were evaluated using MSE, RMSE, MAE, and R^2 scores. The Random Forest model additionally computed for OOB score. All scores of both models were 0.80 and above.
 
 
-## Recommendation
+## Recommendations
 Additional modifications may be done in the following areas: scoring values, error metrics, imputations, grid values, to name a few. I highly recommend a greater amount of data samples in future implementations.
