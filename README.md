@@ -1,5 +1,5 @@
 # README
-This repository contains files for predicting total_cashflow_input, total_cashflow_output, and the credit_score of 2500+ banking customers based on loaning data and demographic data provided by a local Philippine bank that wishes to remain undisclosed. This is for a business pitch to create an AI model and website to automate customer inputs and profiling to significantly speed up loan processing and approval. The single-digit prefixes before each file name indicate the order in which the .py files are to be run, and the corresponding step in which the .csv was created. 
+This repository contains files for predicting total_cashflow_input, total_cashflow_output, and the credit_score of 2500+ banking customers based on real-life loaning data and demographic data provided by a local Philippine bank that wishes to remain undisclosed. This is for a business pitch to create an AI model and website to automate customer inputs and profiling to significantly speed up loan processing and approval. The single-digit prefixes before each file name indicate the order in which the .py files are to be run, and the corresponding step in which the .csv was created. 
 
 ### NOTE: The data_v2_LESS_IMAGES.csv dataset from Step 1 cannot be uploaded publicly.
 
